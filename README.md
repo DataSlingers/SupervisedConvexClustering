@@ -10,5 +10,5 @@ This repository provides the codes of Minjie Wang, Tianyi Yao and Genevera I. Al
 
 
 ## How to Use
-1. Download repository of Functions
+1. Download repository of **Functions**
 2. Run example usage file: example_code.m
