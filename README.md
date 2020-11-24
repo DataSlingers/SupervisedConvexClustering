@@ -4,4 +4,11 @@ This repository provides the codes of Minjie Wang, Tianyi Yao and Genevera I. Al
 
 ## Directory Summary
 
+- Functions: contains functions to perform Supervised Convex Clustering
+
 - Case Study: contains files to run the case study from the Supervised Convex Clustering paper
+
+
+## How to Use
+1. Download repository of Functions
+2. Run example usage file: example_code.m
